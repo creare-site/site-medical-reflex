@@ -1,4 +1,4 @@
-# [Site Medical Reflex](https://site-medical-reflex.websitemarket.ro/) - Site Prezentare
+# [Site Medical Reflex](https://site-medical-reflex.websitemarket.ro/)
 
 Site de prezentare, un produs [WebsiteMarket](https://websitemarket.ro)
 
@@ -43,4 +43,4 @@ Prin Email **hello [@ ] websitemarket.ro** sau pe LIVE chat-ul [Discord](https:/
 <br />
 
 ---
-Site Prezentare - [Reflex](https://site-medical-reflex.websitemarket.ro/) un produs **WebsiteMarket**
+[Site Medical Reflex](https://site-medical-reflex.websitemarket.ro/) un produs **WebsiteMarket**
